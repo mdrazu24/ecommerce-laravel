@@ -1,0 +1,8 @@
+Signup
+Login
+Authrization on routes
+Admin panel to add products
+Filter Functionality
+Pagination
+Broadcasting on purchase status
+Checkoug with stripe and Bkash
